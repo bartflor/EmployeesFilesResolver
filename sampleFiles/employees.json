@@ -1,0 +1,67 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jessie",
+      "surname": "Black",
+      "position": "Manager",
+      "salary": "3540,20"
+    },
+    {
+      "id": 2,
+      "name": "Joe",
+      "surname": "Smith",
+      "position": "Driver",
+      "salary": "13460.45"
+    },
+    {
+      "id": 3,
+      "name": "Alice",
+      "surname": "Stone",
+      "position": "Manager",
+      "salary": "15240.00"
+    },
+    {
+      "id": 4,
+      "name": "Edd",
+      "surname": "Kowalski",
+      "position": "Driver",
+      "salary": "2700,10"
+    },
+    {
+      "id": 5,
+      "name": "Michael",
+      "surname": "Jackson",
+      "position": "Director",
+      "salary": "13460,45"
+    },
+    {
+      "id": 6,
+      "name": "James",
+      "surname": "Smith",
+      "position": "Driver",
+      "salary": "10960.45"
+    },
+    {
+      "id": 7,
+      "name": "Donald",
+      "surname": "Red",
+      "position": "Driver",
+      "salary": "17240.50"
+    },
+    {
+      "id": 8,
+      "name": "Jay",
+      "surname": "Orear",
+      "position": "Accountant",
+      "salary": "22700,10"
+    },
+    {
+      "id": 9,
+      "name": "Ron",
+      "surname": "Copper",
+      "position": "Janitro",
+      "salary": "1460,70"
+    }
+  ]
+}

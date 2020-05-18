@@ -1,0 +1,10 @@
+id;name;surname;position;salary
+ 1; "Jessie"; "Black"; "Manager";"3540,20"
+ 2; "Joe"; "Smith"; "Driver"; "13460.45"
+ 3; "Alice"; "Stone"; "Manager"; "15240.00"
+ 4; "Edd"; "Kowalski"; "Driver"; "2700,10"
+ 5; "Michael"; "Jackson"; "Director"; "13460,45"
+ 6; "James"; "Smith"; "Driver"; "10960.45"
+ 7; "Donald"; "Red"; "Driver"; "17240.50"
+ 8; "Jay"; "Orear"; "Accountant"; "22700,10"
+ 9; "Ron"; "Copper"; "Janitro"; "1460,70" 
