@@ -4,7 +4,7 @@ on:
     branches:
       - ino_dev
 jobs:
-  Build:
+  BuildTestDeploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -17,5 +17,8 @@ jobs:
           distribution: 'adopt'
           cache: maven
 
-      - name: Build with Maven
-        run: mvn install -DskipTests
+      - name: Build & test with Maven
+        run: mvn --batch-mode package
+
+      - name: Deploy
+        run: java -jar target/EmployeeResolver-1.jar  sampleFiles/employees.csv
