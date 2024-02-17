@@ -1,0 +1,10 @@
+name: Build GH Action
+
+on: [push]
+  branches:
+    - ino_dev
+jobs:
+  Build:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Build triggered"
