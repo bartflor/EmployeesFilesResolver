@@ -1,8 +1,7 @@
 name: Build GH Action
 
 on: [push]
-  branches:
-    - ino_dev
+  branches: [ino_dev]
 jobs:
   Build:
     runs-on: ubuntu-latest
